@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 
-TOKEN = '7011667270:AAHoSnRsI-w88kghdfiKazpsevl05gnDQ0k'
+TOKEN = "Add Your Tokhen"
 
 bot = telebot.TeleBot(TOKEN)
 
